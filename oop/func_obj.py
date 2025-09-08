@@ -1,6 +1,6 @@
 # [def]
 def example():
-    print("in example")
+    print("function example invoked!")
 # [/def]
 
 # [alias]
